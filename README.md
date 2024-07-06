@@ -30,4 +30,4 @@ I translate business needs into scalable, user-centric software designs. My appr
 - [Email](mailto:mohammadbourm@gmail.com) 📧
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadbourm&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadAhmadAlBourm&show_icons=true&theme=radical)
