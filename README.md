@@ -1,7 +1,3 @@
-Creating an engaging GitHub README file is a great way to introduce yourself to the community. Here's a sample README for you, complete with emojis and a concise summary of your LinkedIn profile:
-
----
-
 # 👋 Hi, I'm Mohammad Al Bourm
 
 ## 🚀 About Me
