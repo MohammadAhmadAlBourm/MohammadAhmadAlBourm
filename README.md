@@ -4,7 +4,7 @@
 I'm a passionate **Senior Software Engineer** with a bachelor's degree in Software Engineering from Arab International University. My journey in software engineering is driven by my commitment to delivering exceptional software solutions that align with client needs and industry standards. 
 
 ### 🌟 Professional Highlights:
-- 🛠️ **Current Role**: Software Engineer at **Multi Level Group**
+- 🛠️ **Current Role**: Software Engineer at **Multi Level Technology LLC**
   - 🌐 Expertise across the entire software development lifecycle.
   - 💡 Proficient in **ASP.NET MVC**, **ASP.NET Core Web API**, **Angular**, **Microsoft SQL Server**, **HTML5**, **CSS3**, **XML**, **JSON**, **JavaScript**, **AJAX**, **jQuery**.
   - 📐 Advocate for **Clean Architecture** and **Microservice Architecture**.
