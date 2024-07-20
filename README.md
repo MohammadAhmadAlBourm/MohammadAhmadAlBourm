@@ -16,7 +16,7 @@ I'm a passionate **Senior Software Engineer** with a bachelor's degree in Softwa
 
 ### 🧰 Skills & Tools:
 - **Languages & Frameworks**:
-  - ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+  - ![C#](https://e7.pngegg.com/pngimages/210/105/png-clipart-c-c-computer-programming-javascript-others-miscellaneous-purple.png) 
   - ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   - ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
