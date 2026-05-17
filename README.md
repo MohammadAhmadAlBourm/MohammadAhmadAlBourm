@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Architect;Clean+Architecture+Advocate;SaaS+System+Designer;Microservices+Specialist;ASP.NET+Core+Expert" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MohammadAhmadAlBourm?label=Followers&style=for-the-badge&logo=github&color=blueviolet" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=MohammadAhmadAlBourm&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -68,26 +73,35 @@
 
 ## 📊 GitHub Stats
 
-<!--
-  NOTE: If "Error Fetching Resource" appears on the cards below, the
-  github-readme-stats service is rate-limited (a known issue).
-  Workarounds:
-    1. Wait a few hours — usually self-recovers.
-    2. Swap the host to: github-readme-stats-sigma-five.vercel.app
-    3. Self-host on Vercel with a GitHub PAT (most reliable).
-  See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
--->
+<!-- These SVGs are generated daily by the workflow in
+     .github/workflows/profile-summary-cards.yml and committed
+     to /profile-summary-card-output/. They are static files in
+     this repo, so they never break from API rate limits. -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAhmadAlBourm&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
+</p>
+
+### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MohammadAhmadAlBourm&theme=radical" alt="GitHub Streak" />
 </p>
 
+### 🏆 Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAhmadAlBourm&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadAhmadAlBourm&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
