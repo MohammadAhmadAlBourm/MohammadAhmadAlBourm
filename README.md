@@ -68,8 +68,18 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  NOTE: If "Error Fetching Resource" appears on the cards below, the
+  github-readme-stats service is rate-limited (a known issue).
+  Workarounds:
+    1. Wait a few hours — usually self-recovers.
+    2. Swap the host to: github-readme-stats-sigma-five.vercel.app
+    3. Self-host on Vercel with a GitHub PAT (most reliable).
+  See: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAhmadAlBourm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAhmadAlBourm&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -77,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAhmadAlBourm&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAhmadAlBourm&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
