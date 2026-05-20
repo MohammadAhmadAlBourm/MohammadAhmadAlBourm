@@ -1,127 +1,102 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Mohammad Al Bourm</h1>
-<h3 align="center">Senior Software Engineer | Software Architect | .NET & SaaS Systems Builder</h3>
+# Mohammad Al Bourm
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Architect;Clean+Architecture+Advocate;SaaS+System+Designer;Microservices+Specialist;ASP.NET+Core+Expert" alt="Typing SVG" />
-</p>
+**Senior Software Engineer · Software Architect**
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MohammadAhmadAlBourm?label=Followers&style=for-the-badge&logo=github&color=blueviolet" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=MohammadAhmadAlBourm&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-</p>
+Designing and building scalable .NET systems, SaaS platforms, and enterprise APIs.
+Focused on Clean Architecture, microservices, and turning complex business problems into maintainable software.
 
----
-
-## 🚀 About Me
-
-- 🧠 Senior Software Engineer specializing in scalable system design
-- 🏗️ Focused on Clean Architecture, Microservices & SaaS platforms
-- 💡 Passionate about turning business ideas into real systems
-- 🌍 Experienced in enterprise, government & product-based systems
-- ⚡ Always improving architecture, performance & scalability
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mohammad-al-bourm-067337166)
+[![Email](https://img.shields.io/badge/Email-mohammadbourm@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:mohammadbourm@gmail.com)
+[![X](https://img.shields.io/badge/X-@BourmMohammad-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/BourmMohammad)
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadAhmadAlBourm&style=flat-square&color=0A66C2&label=Profile+views)
 
 ---
 
-## 🧩 What I Do
+## About
 
-✔ Design scalable SaaS systems  
-✔ Build enterprise-grade APIs  
-✔ Architect microservices ecosystems  
-✔ Transform business ideas into software products  
-✔ Optimize legacy systems into modern architectures
+I'm a senior software engineer with deep experience designing systems that have to keep working as they grow — from government platforms to commercial SaaS products. My focus is on architecture decisions that age well: clean boundaries, clear contracts, and infrastructure that doesn't fight the team.
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Backend
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🌐 Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Database
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Dev Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🏗️  Architecting distributed systems with **.NET**, **ASP.NET Core**, and **Angular**
+- 🧩  Practicing **Clean Architecture**, **CQRS**, **DDD**, and **SOLID** in production
+- 🚀  Building SaaS platforms, multi-tenant systems, and high-throughput APIs
+- 🔍  Modernizing legacy systems into resilient, observable services
+- 📐  Writing code that the next engineer can read without a meeting
 
 ---
 
-## 🏗️ Architecture Expertise
+## Core Expertise
 
-- 🧱 Clean Architecture
-- 🔗 Microservices Architecture
-- 📡 CQRS Pattern
-- 📦 Repository & Unit of Work
-- 🔐 JWT Authentication & Security Best Practices
-- ⚙️ SOLID Principles
-
----
-
-## 📊 GitHub Stats
-
-<!-- These SVGs are generated daily by the workflow in
-     .github/workflows/profile-summary-cards.yml and committed
-     to /profile-summary-card-output/. They are static files in
-     this repo, so they never break from API rate limits. -->
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
-</p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammadAhmadAlBourm&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadAhmadAlBourm&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
+| Area | Focus |
+|---|---|
+| **Architecture** | Clean Architecture · Microservices · CQRS · Event-Driven · DDD |
+| **Backend** | ASP.NET Core · Web APIs · Entity Framework · gRPC · Background Services |
+| **Frontend** | Angular · TypeScript · RxJS · Component-driven UI |
+| **Data** | SQL Server · MySQL · Query optimization · Schema design |
+| **Platform** | Docker · CI/CD · JWT & OAuth2 · REST · OpenAPI |
+| **Practices** | SOLID · Repository & Unit of Work · Testing · Code review |
 
 ---
 
-## 🌐 Connect With Me
+## Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-al-bourm-067337166">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohammadbourm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://x.com/BourmMohammad">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+**Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Runtime**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Data & Infrastructure**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-## ⚡ Motto
+## GitHub Activity
 
-> "I don't just build software — I design systems that scale."
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MohammadAhmadAlBourm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAhmadAlBourm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAhmadAlBourm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+---
+
+## Engineering Principles
+
+> The best architecture is the one your team can still understand in two years.
+
+- **Clarity over cleverness.** Code is read more than it is written.
+- **Boundaries matter.** A clean seam beats a clever abstraction.
+- **Design for change.** Requirements always shift — leave room for it.
+- **Measure, then optimize.** Performance work without numbers is guessing.
+- **Document the why.** The what is in the code; the why isn't.
+
+---
+
+## Let's Connect
+
+I'm always open to discussing architecture, SaaS design, or interesting engineering problems.
+
+📫  **mohammadbourm@gmail.com**
+🔗  [linkedin.com/in/mohammad-al-bourm](https://www.linkedin.com/in/mohammad-al-bourm-067337166)
+🐦  [@BourmMohammad](https://x.com/BourmMohammad)
