@@ -5,22 +5,17 @@
 Designing and building scalable .NET systems, SaaS platforms, and enterprise APIs.
 Focused on Clean Architecture, microservices, and turning complex business problems into maintainable software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mohammad-al-bourm-067337166)
-[![Email](https://img.shields.io/badge/Email-mohammadbourm@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:mohammadbourm@gmail.com)
-[![X](https://img.shields.io/badge/X-@BourmMohammad-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/BourmMohammad)
-![Profile Views](https://komarev.com/ghpvc/?username=MohammadAhmadAlBourm&style=flat-square&color=0A66C2&label=Profile+views)
-
 ---
 
 ## About
 
 I'm a senior software engineer with deep experience designing systems that have to keep working as they grow — from government platforms to commercial SaaS products. My focus is on architecture decisions that age well: clean boundaries, clear contracts, and infrastructure that doesn't fight the team.
 
-- 🏗️  Architecting distributed systems with **.NET**, **ASP.NET Core**, and **Angular**
-- 🧩  Practicing **Clean Architecture**, **CQRS**, **DDD**, and **SOLID** in production
-- 🚀  Building SaaS platforms, multi-tenant systems, and high-throughput APIs
-- 🔍  Modernizing legacy systems into resilient, observable services
-- 📐  Writing code that the next engineer can read without a meeting
+- Architecting distributed systems with **.NET**, **ASP.NET Core**, and **Angular**
+- Practicing **Clean Architecture**, **CQRS**, **DDD**, and **SOLID** in production
+- Building SaaS platforms, multi-tenant systems, and high-throughput APIs
+- Modernizing legacy systems into resilient, observable services
+- Writing code that the next engineer can read without a meeting
 
 ---
 
